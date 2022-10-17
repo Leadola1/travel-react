@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/travel-react/static/css/main.6dfc77b2.css",
+    "main.js": "/travel-react/static/js/main.5dd9893b.js",
+    "static/js/787.8a220983.chunk.js": "/travel-react/static/js/787.8a220983.chunk.js",
+    "static/media/Rectangle 77.png": "/travel-react/static/media/Rectangle 77.10ff067ecd97eb859f6f.png",
+    "index.html": "/travel-react/index.html",
+    "main.6dfc77b2.css.map": "/travel-react/static/css/main.6dfc77b2.css.map",
+    "main.5dd9893b.js.map": "/travel-react/static/js/main.5dd9893b.js.map",
+    "787.8a220983.chunk.js.map": "/travel-react/static/js/787.8a220983.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dfc77b2.css",
+    "static/js/main.5dd9893b.js"
+  ]
+}
